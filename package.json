@@ -1,0 +1,9 @@
+{
+  "name": "qc-event-bus",
+  "version": "1.0.0",
+  "description": "eventBus",
+  "main": "umd/index.js",
+  "module":"index.js",
+  "author": "qiaochao",
+  "license": "MIT"
+}
